@@ -121,4 +121,3 @@ endmodule
 **RESULTS**
 
 Thus, the 4-bit Ripple Counter was successfully implemented, and its functionality was validated using the truth table.
-
